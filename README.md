@@ -2,8 +2,10 @@
   <header>
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px">
   </header>
+<img src="https://i.pinimg.com/originals/f6/8c/12/f68c12e6fb7a1f6a42c702a6172ff81f.jpg" width="200px" />
+  <em>Tensei Shitara Slime Datta Ken - mangá</em>
   <h2>Languages and tools:</h2>
-  <section">
+  <section>
     <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
