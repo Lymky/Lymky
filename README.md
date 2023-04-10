@@ -1,11 +1,10 @@
-<main>
-  <header>
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px">
-  </header>
+  <div>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"> 
+    <h2>Profile:</h2>
+  </div>
 <img src="https://i.pinimg.com/originals/f6/8c/12/f68c12e6fb7a1f6a42c702a6172ff81f.jpg" width="200px" />
   <em>Tensei Shitara Slime Datta Ken - mangá</em>
   <h2>Languages and tools:</h2>
-  <section>
     <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
@@ -14,7 +13,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />  
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
 </div>
- <div>
+<div>
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" />
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize" />
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="linuxmint" />
@@ -30,5 +29,3 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vscode" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
 </div>
-  </section>
-</main>
