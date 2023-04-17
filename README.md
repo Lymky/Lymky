@@ -1,8 +1,10 @@
   <div>
+   <a href="https://github.com/Lymky" >
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"> 
     <h2>Profile:</h2>
-  </div>
-<img src="https://i.pinimg.com/originals/f6/8c/12/f68c12e6fb7a1f6a42c702a6172ff81f.jpg" width="200px" />
+   </a>  
+</div>
+  <img src="https://i.pinimg.com/originals/f6/8c/12/f68c12e6fb7a1f6a42c702a6172ff81f.jpg" width="200px" />
   <em>Tensei Shitara Slime Datta Ken - mangá</em>
   <h2>Languages and tools:</h2>
     <div>
