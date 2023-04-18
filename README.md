@@ -12,5 +12,7 @@
 <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="javascript" width="50px" />
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="30px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="30px"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" alt="mysql" width="30px"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png alt="nodejs" width="30px"/>
     </div>
 </div>
