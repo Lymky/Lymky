@@ -6,8 +6,8 @@
 
 ```js
 const aboutMe = {
-  name: "Limky",
-  description: undefined,
+  name: "Calliope",
+  description: "A good boy",
   games: ["Moba", "Rpg", "Hack and Slash", "Strategy"],
   musics: ["Metal", "Phonk", "Trap"]
 }
