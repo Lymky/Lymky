@@ -20,9 +20,9 @@ const aboutMe = {
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue)
+![JAVA](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=yellow)
 ![REACT](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![RERDUX](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&logoColor=purple)
-![TAILWIND](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![REACT ROUTER](https://img.shields.io/badge/-React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=orange)
-
+![SPRING](https://img.shields.io/badge/Spring-0D1117.svg?style=for-the-badge&logo=Spring&logoColor=green)
 </div>
