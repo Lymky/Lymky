@@ -6,7 +6,7 @@
 
 ```js
 const aboutMe = {
-  name: "Calliope",
+  name: "kotives",
   description: "A good boy",
   games: ["Moba", "Rpg", "Hack and Slash", "Strategy"],
   musics: ["Metal", "Phonk", "Trap"]
